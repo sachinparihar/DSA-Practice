@@ -1,3 +1,5 @@
+package Integer;
+
 public class reverseInteger {
 
     public static int reverse(int x){
